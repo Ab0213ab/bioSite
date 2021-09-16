@@ -1,0 +1,159 @@
+
+/* Andrew Schaefer
+8/25/21
+CSD340
+bioSite */
+
+.page_container {
+    background-color: #d79922;
+}
+
+#navbar {
+    overflow: hidden;
+    background-color: #efe2ba;
+    border-bottom: 10px solid #efe2ba;
+    color: #4056a1;
+    font-family: 'Quattrocento', Georgia, "Times New Roman", serif;
+    border: 2px solid #4056a1;
+    padding-top: 10px;
+    padding: 10px;
+    position: fixed;
+    top: 0;
+    width: 97%;
+}
+
+#navbar a {
+    display: block;
+    float: left;
+    color: #4056a1;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-weight: 800;
+    width: 120px;
+    font-size: xx-large;
+    top: 0;
+}
+
+#navbar a:hover {
+    background-color: #d79922;
+    color: #05386B;
+}
+
+figure {
+ padding-right: 10px
+}
+
+#home_image {
+    width: 1200px;
+    height: 700px;
+    margin: 20px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    border: 2px solid #4056a1;
+}
+
+figcaption {
+    font-family: 'Quattrocento', Georgia, "Times New Roman", serif;
+    font-size: large;
+    font-weight: 400;
+    font-style: italic;
+    margin-bottom: 20px;
+    width: 600px
+}
+
+#author {
+    text-align: right;
+    padding-right: 10px;
+}
+
+h1 {
+    font-family: 'Quattrocento', Georgia, "Times New Roman", serif;
+    color: #4056a1;
+    font-size: 3em;
+}
+
+.left_column {
+    float: left;
+    width: 10px;
+    height: 1600px;
+}
+
+.right_column {
+    float: right;
+    padding-top: 0px;
+    width: 600px;
+    height: 1600px;
+}
+
+#left_img_about_1 {
+    float: left;
+    width: 600px;
+    border: 2px solid #4056a1;
+
+}
+
+#right_p_about_1 {
+    float: right;
+    font-family: 'Quattrocento', Georgia, "Times New Roman", serif;
+    font-weight: 500;
+    padding-bottom: 280px;
+    padding-top: 0px;
+}
+
+#right_p_hobbies_1 {
+    float: right;
+    font-family: 'Quattrocento', Georgia, "Times New Roman", serif;
+    font-weight: 500;
+    padding-bottom: 360px;
+    padding-top: 0px;
+}
+
+#right_img_about_1 {
+    float: right;
+    height: 500px;
+    width: 600px;
+    border: 2px solid #4056a1;
+}
+
+#left_p_about_1 {
+    float: left;
+    font-family: 'Quattrocento', Georgia, "Times New Roman", serif;
+    padding-right: 100px;
+    padding-bottom: 380px;
+    padding-top: 50px;
+    width: 600px;
+}
+
+#left_img_about_2 {
+    float: left;
+    width: 600px;
+    height: 370px;
+    border: 2px solid #4056a1;
+}
+
+#right_p_about_2 {
+    float: right;
+    font-family: 'Quattrocento', Georgia, "Times New Roman", serif;
+    font-weight: 500;
+    padding-bottom: 220px;
+    padding-top: 35px;
+}
+
+#right_p_hobbies_2 {
+    float: right;
+    font-family: 'Quattrocento', Georgia, "Times New Roman", serif;
+    font-weight: 500;
+    padding-bottom: 220px;
+    padding-top: 35px;
+}
+
+
+
+
+
+
+
+
+
+
