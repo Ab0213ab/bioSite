@@ -53,6 +53,10 @@ figure {
     border: 2px solid #4056a1;
 }
 
+#home_box {
+    padding-top: 80px;
+}
+
 figcaption {
     font-family: 'Quattrocento', Georgia, "Times New Roman", serif;
     font-size: large;
@@ -71,6 +75,7 @@ h1 {
     font-family: 'Quattrocento', Georgia, "Times New Roman", serif;
     color: #4056a1;
     font-size: 3em;
+    padding-top: 80px;
 }
 
 .left_column {
