@@ -5,4 +5,4 @@
   <li>Professor Sue Sampson</li>
   <li>Andrew Schaefer</li>
 </ul>
-This repository was created as an assignment for Bellevue University's Web Development with HTML and CSS class. This bioSite is a simple biographical webpage that represents a culmination of all the basic concepts learned throughout the course.
+This repository was created as an assignment for Bellevue University's Web Development with HTML and CSS class. This bioSite is a simple biographical webpage that represents a culmination of all the basic concepts learned throughout the CSD340 course.
