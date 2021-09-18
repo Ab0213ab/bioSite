@@ -125,7 +125,16 @@ h1 {
     float: left;
     font-family: 'Quattrocento', Georgia, "Times New Roman", serif;
     padding-right: 100px;
-    padding-bottom: 460px;
+    padding-bottom: 370px;
+    padding-top: 50px;
+    width: 600px;
+}
+
+#left_p_hobbies_1 {
+    float: left;
+    font-family: 'Quattrocento', Georgia, "Times New Roman", serif;
+    padding-right: 100px;
+    padding-bottom: 480px;
     padding-top: 50px;
     width: 600px;
 }
