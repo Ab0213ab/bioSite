@@ -9,11 +9,6 @@ footer {
     padding-right: 10px;
 }
 
-/*#author {
-    text-align: right;
-    padding-right: 10px;
-}*/
-
 .page_container {
     background-color: #d79922;
 }
@@ -81,11 +76,12 @@ h1 {
     color: #4056a1;
     font-size: 3em;
     padding-top: 80px;
+    text-align: center;
 }
 
 .left_column {
     float: left;
-    width: 10px;
+    width: 40%;
     height: 1600px;
     padding-left: 1%;
 }
@@ -93,7 +89,7 @@ h1 {
 .right_column {
     float: right;
     padding-top: 0px;
-    width: 600px;
+    width: 40%;
     height: 1600px;
     padding-right: 1%;
 }
